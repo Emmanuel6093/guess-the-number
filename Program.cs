@@ -23,6 +23,19 @@ namespace GuessTheNumberGame
                     Console.WriteLine("Please enter a valid number.");
                     continue;
                 }
+
+                if (guess < correctNumber) 
+                {
+                    Console.WriteLine("Too low! Try again.");
+                }
+                else if (guess > correctNumber)
+                {
+                    Console.WriteLine("Too high! Try again.");
+                }
+                else 
+                {
+                    Console.WriteLine("Congrats! You've guessed the correct number.");
+                }
             }
         }
     }

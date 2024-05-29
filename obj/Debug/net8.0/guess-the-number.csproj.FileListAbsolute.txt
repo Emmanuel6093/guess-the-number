@@ -1,0 +1,15 @@
+/Users/emmanue/projects/guess-the-number/bin/Debug/net8.0/guess-the-number
+/Users/emmanue/projects/guess-the-number/bin/Debug/net8.0/guess-the-number.deps.json
+/Users/emmanue/projects/guess-the-number/bin/Debug/net8.0/guess-the-number.runtimeconfig.json
+/Users/emmanue/projects/guess-the-number/bin/Debug/net8.0/guess-the-number.dll
+/Users/emmanue/projects/guess-the-number/bin/Debug/net8.0/guess-the-number.pdb
+/Users/emmanue/projects/guess-the-number/obj/Debug/net8.0/guess-the-number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanue/projects/guess-the-number/obj/Debug/net8.0/guess-the-number.AssemblyInfoInputs.cache
+/Users/emmanue/projects/guess-the-number/obj/Debug/net8.0/guess-the-number.AssemblyInfo.cs
+/Users/emmanue/projects/guess-the-number/obj/Debug/net8.0/guess-the-number.csproj.CoreCompileInputs.cache
+/Users/emmanue/projects/guess-the-number/obj/Debug/net8.0/guess-the-number.sourcelink.json
+/Users/emmanue/projects/guess-the-number/obj/Debug/net8.0/guess-the-number.dll
+/Users/emmanue/projects/guess-the-number/obj/Debug/net8.0/refint/guess-the-number.dll
+/Users/emmanue/projects/guess-the-number/obj/Debug/net8.0/guess-the-number.pdb
+/Users/emmanue/projects/guess-the-number/obj/Debug/net8.0/guess-the-number.genruntimeconfig.cache
+/Users/emmanue/projects/guess-the-number/obj/Debug/net8.0/ref/guess-the-number.dll
